@@ -3,8 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/braya/Downloads/Practica6_PopcornFactory-master/Practica6_PopcornFactory/app/src/main/res/drawable-xxhdpi/radio_disabled.xml" value="0.1755" />
+        <entry key="..\:/Users/braya/Downloads/Practica6_PopcornFactory-master/Practica6_PopcornFactory/app/src/main/res/drawable-xxhdpi/radio_normal.xml" value="0.1755" />
+        <entry key="..\:/Users/braya/Downloads/Practica6_PopcornFactory-master/Practica6_PopcornFactory/app/src/main/res/drawable-xxhdpi/radio_selectable.xml" value="0.1755" />
+        <entry key="..\:/Users/braya/Downloads/Practica6_PopcornFactory-master/Practica6_PopcornFactory/app/src/main/res/drawable-xxhdpi/radio_selected.xml" value="0.1755" />
+        <entry key="..\:/Users/braya/Downloads/Practica6_PopcornFactory-master/Practica6_PopcornFactory/app/src/main/res/layout/activity_detalle_pelicula.xml" value="0.2" />
         <entry key="..\:/Users/braya/Downloads/Practica6_PopcornFactory-master/Practica6_PopcornFactory/app/src/main/res/layout/activity_inicio.xml" value="0.1" />
         <entry key="..\:/Users/braya/Downloads/Practica6_PopcornFactory-master/Practica6_PopcornFactory/app/src/main/res/layout/activity_main.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/braya/Downloads/Practica6_PopcornFactory-master/Practica6_PopcornFactory/app/src/main/res/layout/activity_seat_selection.xml" value="0.1" />
       </map>
     </option>
   </component>

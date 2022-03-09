@@ -4,4 +4,13 @@
     <string name="series">SERIES</string>
     <string name="movies">MOVIES</string>
     <string name="welcome">Welcome to Popcorn Factory, home of the best series and movies. Just lay down make some popcorn and enjoy!</string>
+    <string name="title_activity_seat_selection">SeatSelection</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
 </resources>
